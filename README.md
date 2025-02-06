@@ -4,5 +4,7 @@ This is meant to automate the process of finding the winner in a large football 
 
 ## How to start
 
+```
 npm install
 npm start
+```
