@@ -1,0 +1,5 @@
+.env
+node_modules
+
+# This may contain sensitive information
+*.pdf
